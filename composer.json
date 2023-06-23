@@ -1,0 +1,19 @@
+{
+    "name": "runit/runit-database",
+    "description": "PHP database package for runit serverless platform",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Runit\\RunitDatabase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amos Amissah",
+            "email": "39559758+theonlyamos@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
